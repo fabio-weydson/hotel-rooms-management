@@ -2,6 +2,9 @@
 
 Sistema de vistoria de quartos para pousadas desenvolvido com React, Vite, Tailwind CSS e Shadcn/UI.
 
+![hotel-rooms-management preview](https://raw.githubusercontent.com/fabio-weydson/hotel-rooms-management/refs/heads/main/preview.png?raw=true)
+
+
 ## Funcionalidades
 
 - **Lista de Quartos**: Visualizar todos os quartos com status de limpeza
